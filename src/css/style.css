@@ -1,0 +1,55 @@
+.checkbox {
+    margin-left: 20px;
+    margin-right: 20px;
+    display: inline;
+    justify-content: center;
+}
+
+.todos {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin: auto;
+    width: 50%;
+    font-size: large;
+    color: rgb(211, 211, 211);
+    width: 250px;
+}
+
+.todos:first-child {
+    margin-top: 30px;
+}
+
+.input {
+    display: block;
+    margin: 10px auto;
+    width: 250px;
+
+}
+
+.inText {
+    background-color: rgb(235, 235, 235);
+    border-radius: 20px;
+    padding: 0 10px ;
+    border-style: solid;
+}
+
+.buttons {
+    display: block;
+    margin: 10px auto;
+    width: 225px;
+}
+
+.leftText {
+    display: block;
+    margin: 10px auto;
+    width: 50%;
+}
+
+#root {
+    background-color: rgb(37, 37, 37);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    margin: 12px 40px;
+}
