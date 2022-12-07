@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# My First React App - Simple Todo List
 
+Followed tutorial: https://youtu.be/hQAHSlTtcmY
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
